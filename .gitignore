@@ -1,0 +1,6 @@
+data
+__pycache__
+results
+app.log
+test.py
+data.json

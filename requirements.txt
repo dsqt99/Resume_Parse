@@ -1,0 +1,11 @@
+torch
+torchvision
+pdf2image
+pandas
+opencv-contrib-python==4.5.5.62
+ultralytics
+easyocr==1.6.2
+requests
+flask
+joblib
+pytesseract
